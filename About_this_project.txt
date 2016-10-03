@@ -1,0 +1,5 @@
+This project is an example of simple java project, which is built by ant(used build.xml)
+Contains folder lib with needed java files in it
+
+
+just pull this project install java and ant
